@@ -37,8 +37,8 @@ CREATE TABLE employees (
 
 ## 📂 Repository Content
 
-| `task4_aggregate_functions.sql` | SQL script with table and queries  |
-| `README.md`                     | Explanation and task documentation |
-| `screenshots/` *(optional)*     | Screenshots of query outputs       |
+ `task4_aggregate_functions.sql` 
+ `README.md`                     
+
 
 
