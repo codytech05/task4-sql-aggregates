@@ -22,6 +22,7 @@ CREATE TABLE employees (
     salary DECIMAL(10,2),
     age INT
 );
+```
 
 ## 📚 Concepts Used
   | Concept           | Description                                        |
