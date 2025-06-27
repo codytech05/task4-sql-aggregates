@@ -36,6 +36,9 @@ CREATE TABLE employees (
   | `ROUND()`         | Rounds numerical values to given decimal places    |
 
 ## 📂 Repository Content
-  task4_aggregate_functions.sql
-  README.md
+
+| `task4_aggregate_functions.sql` | SQL script with table and queries  |
+| `README.md`                     | Explanation and task documentation |
+| `screenshots/` *(optional)*     | Screenshots of query outputs       |
+
 
